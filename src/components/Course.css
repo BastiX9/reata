@@ -1,0 +1,44 @@
+.App {
+}
+
+.Kurs{
+  border-radius: 10px;
+  background-color: rgba(0, 132, 77, 1);
+  padding: 1%;
+  margin-right: 3%;
+}
+
+.Kurs-Single{
+  border-radius: 10px;
+  background-color: rgba(0, 132, 77, 1);
+  padding: 1%;
+  margin-right: 3%;
+}
+
+.Kurs-ID{
+  padding-top: ;
+  color: white;
+}
+
+.Kurs-Name{
+  color: white;
+
+}
+
+.Kurs-Kurz{
+  color: white;
+
+}
+
+.Kurs-Link{
+  color: rgba(83, 170, 255);
+  text-decoration: underline;
+}
+
+.Kurs-Info{
+  color: white;
+}
+
+.Kurs-Block{
+  color: white;
+}

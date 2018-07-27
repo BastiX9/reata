@@ -1,0 +1,182 @@
+@media screen and (max-width: 900px)
+{
+
+
+  .Background{
+    background-color: rgba(179, 179, 179, 1);
+    margin-bottom: 0%;
+    padding-bottom: 10%;
+  }
+
+  .App {
+
+    background-color: rgba(242, 242, 242, 1);
+    padding-bottom: 5%;
+
+  }
+
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+    margin-left: 85%;
+    margin-top: -100px;
+  }
+
+  .App-header {
+    position: relative;
+    float: left;
+    background-color: #222;
+    height: auto;
+    padding: 4%;
+    color: white;
+  }
+
+  .App-header h3, .App-header h1{
+    float: left;
+  }
+
+  .App-title {
+    font-size: 1.5em;
+
+  }
+
+  .App-intro {
+    font-size: large;
+    margin-left: 0%;
+  }
+
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  .Projects {
+    margin-left: 0%;
+  }
+
+  .AddProject {
+    margin-left: 0%;
+
+  }
+
+  .Navigation {
+    position: relative;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+  }
+
+  .Nav {
+    background-color: rgba(0, 132, 77, 1);
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+  }
+
+  .Login{
+    margin-left: 3%;
+  }
+
+  #changethis{
+    background-color: rgba(0, 132, 77, 1);
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    width: 90%;
+    text-align: center;
+  }
+
+
+}
+
+
+@media screen and (min-width: 901px)
+{
+
+
+.Background{
+  background-color: rgba(179, 179, 179, 1);
+  margin-bottom: 0%;
+  padding-bottom: 10%;
+}
+
+.App {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgba(242, 242, 242, 1);
+  padding-bottom: 5%;
+
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+  margin-left: 85%;
+  margin-top: -100px;
+}
+
+.App-header {
+  background-color: #222;
+  height: auto;
+  padding: 4%;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+
+}
+
+.App-intro {
+  font-size: large;
+  margin-left: 0%;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.Projects {
+  margin-left: 0%;
+}
+
+.AddProject {
+  margin-left: 0%;
+
+}
+
+.Navigation {
+
+  margin-top: 3%;
+  margin-left: 3%;
+}
+
+.Nav {
+  background-color: rgba(0, 132, 77, 1);
+  border-radius: 5px;
+  color: white;
+  padding: 1%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.Login{
+  margin-left: 3%;
+}
+
+#changethis{
+  background-color: rgba(0, 132, 77, 1);
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  width: 90%;
+  text-align: center;
+}
+
+}
